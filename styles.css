@@ -1,5 +1,9 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here*/
+body{
+	margin:0px;
+	padding:0px;
+}
 .questions{
 	  background-color:#f8fffe;
       heigh:50px;
